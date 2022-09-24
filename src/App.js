@@ -31,22 +31,22 @@ function App() {
       <div>
         <div className='w-80 h-24 bg-regal-blue/70 absolute z-[1000] top-6 left-14 rounded cursor-pointer drop-nav'>
           <div className='w-80 h-24 flex items-center justify-around'>
-            <BiUser size={40} className='text-white' />
-            <div className='space-y-2'>
+            <BiUser size={40} className='text-white flex-initial w-20' />
+            <div className='space-y-2 flex-1'>
               <h1 className='text-white'>(123456789034) Ankara</h1>
               <h6 className='text-gray-300 text-xs'>ESB - Esenboğa Havalimanı</h6>
             </div>
           </div>
           <ul className='w-80 h-auto bg-regal-blue/80 absolute z-[1000] top-24 drop-nav-ul hover:transition-all'>
-            <li className='h-16 w-80 flex items-center justify-around'>
+            <li className='h-16 w-80 flex items-center justify-around hover:bg-regal-blue/70 hover:rounded-r-3xl'>
               <AiOutlinePlus size={20} className='text-white flex-initial w-16' />
-              <h2 className='text-white flex-1'>Kullanıcı Bilgileri</h2>
+              <h2 className='text-white flex-1 '>Kullanıcı Bilgileri</h2>
             </li>
-            <li className='h-16 w-80 flex items-center justify-around'>
+            <li className='h-16 w-80 flex items-center justify-around hover:bg-regal-blue/70 hover:rounded-r-3xl'>
               <AiOutlinePlus size={20} className='text-white flex-initial w-16' />
               <h2 className='text-white flex-1'>Ayarlar</h2>
             </li>
-            <li className='h-16 w-80 flex items-center justify-around rounded-b-lg'>
+            <li className='h-16 w-80 flex items-center justify-around hover:bg-regal-blue/70 hover:rounded-r-3xl'>
               <AiOutlinePlus size={20} className='text-white flex-initial w-16' />
               <h2 className='text-white flex-1'>Çıkış Yap</h2>
             </li>
