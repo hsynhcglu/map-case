@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0,
+        "flightno": "TK2782/20211020/1850",
+        "departuredate": "20.10.2021 18:50",
+        "arrivaldate": "20.10.2021 19:50",
+        "departurecity": "EGV",
+        "destinationcity": "CIZ"
+    },
+    {
+        "id": 1,
+        "flightno": "PG2212/20211021/1915",
+        "departuredate": "21.10.2021 19:15",
+        "arrivaldate": "21.10.2021 21:15",
+        "departurecity": "SBH",
+        "destinationcity": "ESB"
+    },
+    {
+        "id": 2,
+        "flightno": "TK2781/20211021/0320",
+        "departuredate": "21.10.2021 03:20",
+        "arrivaldate": "21.10.2021 04:25",
+        "departurecity": "CIZ",
+        "destinationcity": "EGV"
+    },
+    {
+        "id": 3,
+        "flightno": "TK2782/20211020/1850",
+        "departuredate": "20.10.2021 18:50",
+        "arrivaldate": "20.10.2021 19:50",
+        "departurecity": "EGV",
+        "destinationcity": "CIZ"
+    },
+    {
+        "id": 4,
+        "flightno": "PG2212/20211021/1915",
+        "departuredate": "21.10.2021 19:15",
+        "arrivaldate": "21.10.2021 21:15",
+        "departurecity": "SBH",
+        "destinationcity": "ESB"
+    },
+    {
+        "id": 5,
+        "flightno": "TK2781/20211021/0320",
+        "departuredate": "21.10.2021 03:20",
+        "arrivaldate": "21.10.2021 04:25",
+        "departurecity": "CIZ",
+        "destinationcity": "EGV"
+    },
+    {
+        "id": 6,
+        "flightno": "TK2782/20211020/1850",
+        "departuredate": "20.10.2021 18:50",
+        "arrivaldate": "20.10.2021 19:50",
+        "departurecity": "EGV",
+        "destinationcity": "CIZ"
+    }
+    
+]
